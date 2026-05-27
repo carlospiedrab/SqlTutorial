@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build">
+  <Sdk Name="Microsoft.Build.Sql" Version="2.1.0" />
+  <PropertyGroup>
+    <Name>SQLTutorial</Name>
+    <DSP>Microsoft.Data.Tools.Schema.Sql.Sql150DatabaseSchemaProvider</DSP>
+    <ModelCollation>1033, CI</ModelCollation>
+    <ProjectGuid>dd257002-9c89-4612-8b1b-9ad8e1021e3c</ProjectGuid>
+    <DacApplicationName>$(SqlTargetName)</DacApplicationName>
+    <DacVersion>1.0.0.0</DacVersion>
+  </PropertyGroup>
+</Project>

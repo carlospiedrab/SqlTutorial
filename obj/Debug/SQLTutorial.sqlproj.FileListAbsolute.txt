@@ -1,0 +1,5 @@
+C:\NetCore\SQLTutorial\SQLTutorial\bin\Debug\SQLTutorial.dacpac
+C:\NetCore\SQLTutorial\SQLTutorial\obj\Debug\Model.xml
+C:\NetCore\SQLTutorial\SQLTutorial\obj\Debug\refactor.xml
+C:\NetCore\SQLTutorial\SQLTutorial\obj\Debug\postdeploy.sql
+C:\NetCore\SQLTutorial\SQLTutorial\obj\Debug\predeploy.sql
